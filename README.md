@@ -1,6 +1,6 @@
 # Req → Logic → Code MVP
 
-Mini-MVP to turn business requirements → validated logic → Python → DAX/SQL.
+MVP to turn business requirements → validated logic → Python → DAX/SQL.
 
 ## Why
 Make client requirements unambiguous, verify logic fast, and produce code consistently.
