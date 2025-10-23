@@ -1,4 +1,4 @@
-# Req → Logic → Code
+# Req → Logic → Code MVP
 
 Mini-MVP to turn business requirements → validated logic → Python → DAX/SQL.
 
